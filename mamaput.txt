@@ -1,0 +1,15 @@
+
+ut creating a new file in Project repo and also adding information to the files via Vi editor and then saving and quitting the VI editor
+
+vi name of file.txt
+
+Once completed 
+
+Esc :wq and enter to save and quit back to terminal 
+
+
+to insert info to document 
+
+Esc i
+
+

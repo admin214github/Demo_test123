@@ -1,0 +1,10 @@
+Community class room learning how to write information in a file on git bash 
+
+Ok certified DevOps Engineer 
+
+
+You're welcome my dear 
+
+
+
+I have learnt that after typing Esc + :w + enter will help me save my info 
